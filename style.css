@@ -1,0 +1,58 @@
+@charset "utf-8";
+.container-fluid {
+    background-color: #F8F5F5;
+}
+.container-fluid .container footer {
+    background-color: #800020;
+}
+.container footer .navbar.navbar-expand-lg.navbar-light.bg-light {
+}
+footer .navbar.navbar-expand-lg.navbar-light.bg-light #navbarSupportedContent2 {
+    background-color: #800020;
+}
+footer .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler {
+    background-color: #800020;
+}
+.container-fluid .container footer {
+    background-color: #800020;
+}
+.container footer p {
+    color: #FCFCFC;
+}
+.container-fluid .container footer {
+    color: #FFFFFF;
+    background-color: #800020;
+    -webkit-box-shadow: 0px 0px #800020;
+    box-shadow: 0px 0px #800020;
+}
+
+
+
+
+
+
+
+#accordion1 .card #headingOne1 {
+    background-color: #800020;
+    color: #FFFFFF;
+}
+#headingOne1 .mb-0 a {
+    color: #FFFFFF;
+}
+.container footer .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #800020;
+    color: #FFFFFF;
+
+}
+
+
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #800020;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light #navbarSupportedContent1 {
+    background-color: #800020;
+    color: #FFFFFF;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FFFFFF;
+}
